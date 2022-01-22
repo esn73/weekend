@@ -41,7 +41,7 @@ public class WhileMain {
 			System.out.print(itr2.next() + ", ");
 		}
 		
-		
+		System.out.println();
 	}
 
 }
