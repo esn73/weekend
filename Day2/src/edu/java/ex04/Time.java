@@ -14,4 +14,5 @@ public class Time {
 		this.minute = minute;
 		this.second = second;
 	}
+	
 }
