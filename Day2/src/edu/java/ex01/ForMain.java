@@ -1,4 +1,5 @@
 package edu.java.ex01;
+
 import java.util.ArrayList;
 
 public class ForMain {
